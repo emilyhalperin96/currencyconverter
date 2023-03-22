@@ -5,4 +5,5 @@
 #Using The Frankfurter API, the application converts the input amount and returns it in the terminal. 
 
 #response.json() returns a JSON object for the request 
+
 #['rates'] key has a list of currencies, and then you access the rate for the currency you are converting to. 
